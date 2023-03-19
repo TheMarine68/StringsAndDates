@@ -1,4 +1,3 @@
-# Earl Miller CIS261 StringsAndDates
 user_date = input("Enter date: ")
 while user_date != '-1':
     tokens = user_date.split()
